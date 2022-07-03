@@ -1,7 +1,7 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       Archive
+      en      : &EN       Home
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -27,7 +27,7 @@ header:
     
   - titles:
       # @start locale config
-      en      : &EN       Archive
+      en      : &EN       HTB
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -53,7 +53,7 @@ header:
     
   - titles:
       # @start locale config
-      en      : &EN       Archive
+      en      : &EN       THM
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -79,7 +79,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       About
+      en      : &EN       CTFs
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
