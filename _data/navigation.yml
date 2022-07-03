@@ -23,5 +23,10 @@ header:
 
   - titles:
       # @start locale config
+      en      : &EN       Archive
+    url: /archive.html
+
+  - titles:
+      # @start locale config
       en      : &EN       About
     url: /about.html
