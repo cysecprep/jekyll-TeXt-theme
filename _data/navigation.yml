@@ -1,12 +1,6 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       Home
-      # @end locale config
-    url: /home.html
-    
-  - titles:
-      # @start locale config
       en      : &EN       HTB
     url: /HTB.html
     
@@ -25,6 +19,12 @@ header:
       # @start locale config
       en      : &EN       Archive
     url: /archive.html
+   
+  - titles:
+      # @start locale config
+      en      : &EN       Daily_Update
+      # @end locale config
+    url: /daily_update.html
 
   - titles:
       # @start locale config
